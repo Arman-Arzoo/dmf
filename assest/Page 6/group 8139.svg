@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-5f6b9073-f188-4e50-8bc9-2d40af84478b" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="220" height="220" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 220 220">
+  <defs>
+    <style>
+      .uuid-cb028395-fa9e-430c-8d3e-534c6dd1cf69, .uuid-4e3a73e5-bb6a-4807-a0f5-e975b1235ffd {
+        fill: none;
+      }
+
+      .uuid-f0742f64-7a5b-4966-903e-d9fd57600dc9 {
+        clip-path: url(#uuid-30b7e805-ffee-4452-bc72-915afdb5eca9);
+      }
+
+      .uuid-4e3a73e5-bb6a-4807-a0f5-e975b1235ffd {
+        stroke: #003d3d;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .uuid-9dba8ac9-61e0-4e60-85a7-f62bae9af9c1 {
+        fill: url(#uuid-3f5e8f7c-df34-4e2a-8726-6b37070153be);
+      }
+
+      .uuid-15396b2c-fef1-48a0-92ad-b7bd873c864d {
+        clip-path: url(#uuid-b8cb1c49-8b2f-4fa3-b1e8-9ca6232873a5);
+      }
+    </style>
+    <clipPath id="uuid-30b7e805-ffee-4452-bc72-915afdb5eca9">
+      <rect class="uuid-cb028395-fa9e-430c-8d3e-534c6dd1cf69" y=".004" width="220" height="219.99599"/>
+    </clipPath>
+    <clipPath id="uuid-b8cb1c49-8b2f-4fa3-b1e8-9ca6232873a5">
+      <path class="uuid-cb028395-fa9e-430c-8d3e-534c6dd1cf69" d="m110,0v8.52284c56.01689.06888,101.40944,45.46329,101.47501,101.47915h0c-.06282,56.01539-45.4586,101.40854-101.47501,101.46916h0c-56.01641-.06062-101.41217-45.45377-101.475-101.46916H0c.06943,60.72144,49.27745,109.92857,110,109.998h0c60.72253-.06943,109.93057-49.27657,110-109.998h0C219.93222,49.27923,170.72388.06999,110,0Z"/>
+    </clipPath>
+    <linearGradient id="uuid-3f5e8f7c-df34-4e2a-8726-6b37070153be" data-name="Unbenannter Verlauf" x1="-1139" y1="1355.31878" x2="-1138.00001" y2="1355.31878" gradientTransform="translate(548755.44977 47810.59189) rotate(-45) scale(311.13 -311.13)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#77a133"/>
+      <stop offset=".1" stop-color="#77a133"/>
+      <stop offset=".2" stop-color="#7ba736"/>
+      <stop offset=".3" stop-color="#84b33b"/>
+      <stop offset=".4" stop-color="#8cbf40"/>
+      <stop offset=".5" stop-color="#95cb45"/>
+      <stop offset=".6" stop-color="#95cb45"/>
+      <stop offset=".7" stop-color="#95cb45"/>
+      <stop offset=".8" stop-color="#95cb45"/>
+      <stop offset=".9" stop-color="#95cb45"/>
+      <stop offset="1" stop-color="#95cb45"/>
+    </linearGradient>
+  </defs>
+  <g id="uuid-b70a626c-7f35-4a37-85e0-d911ee40d8be" data-name="Gruppe 8139">
+    <g class="uuid-f0742f64-7a5b-4966-903e-d9fd57600dc9">
+      <g id="uuid-32dd71ea-3fbf-47d0-881d-3ac80526a32b" data-name="Gruppe 8136">
+        <g id="uuid-cc5fae53-da91-4df9-b827-582ea0d23df2" data-name="Gruppe 8135">
+          <path id="uuid-4b8a8e6b-2dde-4e1b-b5a2-5ae7d17193e4" data-name="Pfad 10397" class="uuid-4e3a73e5-bb6a-4807-a0f5-e975b1235ffd" d="m127.705,92.86431c-14.62744,14.61239-27.42491,30.94817-38.111,48.64812l-2.722-6.14789c-5.504-12.23511-10.50966-18.35267-15.017-18.35267-5.26667,0-11.06267,3.33694-17.388,10.01082,4.0816,1.54072,7.61243,4.26111,10.143,7.81486,3.01467,3.92393,6.27833,9.98315,9.791,18.17767l2.459,5.7079c1.90244,4.41757,3.57337,8.93127,5.006,13.52276,3.48036-3.00741,7.14625-5.79318,10.976-8.34084l6.5-4.38992c8.078-17.03569,19.786-35.35936,35.124-54.971,15.338-19.61164,29.27133-34.13005,41.8-43.55521l-3.073-4.38992c-14.81,8.42918-29.97267,20.51763-45.488,36.26534Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-15396b2c-fef1-48a0-92ad-b7bd873c864d">
+      <g id="uuid-d5bd8c43-9470-4659-afc2-f72bbb864085" data-name="Gruppe 8138">
+        <g id="uuid-aa40abe2-87a7-4e3a-875f-d51d32719266" data-name="Gruppe 8137">
+          <path id="uuid-e6addfd1-c134-48ee-9802-b19e7839a3ce" data-name="Pfad 10399" class="uuid-9dba8ac9-61e0-4e60-85a7-f62bae9af9c1" d="m.00048-.00048h219.99931v220.00096L-.00023,219.99977.00048-.00048Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

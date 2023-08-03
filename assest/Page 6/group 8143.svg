@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-234a8864-640f-45fd-a075-1c2c8b3027e9" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="220" height="220" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 220 220">
+  <defs>
+    <style>
+      .uuid-3558df62-ded6-47c6-a57f-02e844660641, .uuid-51569b13-4bf3-4a67-9588-7b81f22c2e97 {
+        fill: none;
+      }
+
+      .uuid-4e4dd3aa-c9c4-4197-bddf-a5af2ce58462 {
+        clip-path: url(#uuid-0aafb657-1b38-4960-a323-9d49e501e8de);
+      }
+
+      .uuid-0df7a3da-01a4-481f-8e78-692ffb4ddb83 {
+        fill: url(#uuid-8e22f4de-fb6d-4362-92a3-7548773f13b3);
+      }
+
+      .uuid-51569b13-4bf3-4a67-9588-7b81f22c2e97 {
+        stroke: #003d3d;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+    <clipPath id="uuid-0aafb657-1b38-4960-a323-9d49e501e8de">
+      <path class="uuid-3558df62-ded6-47c6-a57f-02e844660641" d="m110,0v8.52227c56.0179.06677,101.41166,45.46282,101.47459,101.47972h0c-.06295,56.01512-45.45845,101.40804-101.47459,101.46879h0c-56.01613-.06075-101.41165-45.45367-101.47459-101.46879H0c.06951,60.72141,49.27749,109.92851,110,109.99801h0c60.7225-.06951,109.93049-49.2766,110-109.99801h0C219.93214,49.27925,170.72384.07006,110,0Z"/>
+    </clipPath>
+    <linearGradient id="uuid-8e22f4de-fb6d-4362-92a3-7548773f13b3" data-name="Unbenannter Verlauf" x1="-1138" y1="1354.84661" x2="-1137.00683" y2="1354.84661" gradientTransform="translate(552200.24329 48254.54513) rotate(-45) scale(313.268 -313.268)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#77a133"/>
+      <stop offset=".1" stop-color="#77a133"/>
+      <stop offset=".2" stop-color="#7ba736"/>
+      <stop offset=".3" stop-color="#84b33b"/>
+      <stop offset=".4" stop-color="#8cbf40"/>
+      <stop offset=".5" stop-color="#95cb45"/>
+      <stop offset=".6" stop-color="#95cb45"/>
+      <stop offset=".7" stop-color="#95cb45"/>
+      <stop offset=".8" stop-color="#95cb45"/>
+      <stop offset=".9" stop-color="#95cb45"/>
+      <stop offset="1" stop-color="#95cb45"/>
+    </linearGradient>
+  </defs>
+  <g id="uuid-8a60c9b8-c3f5-4e0f-a3f3-8bbb60cb4d70" data-name="Gruppe 8143">
+    <g id="uuid-e52fce40-6cf2-4893-98a2-be0eb80ba533" data-name="Gruppe 8140">
+      <path id="uuid-18408a3e-8ab6-448f-84b9-31b96b22bc55" data-name="Pfad 10401" class="uuid-51569b13-4bf3-4a67-9588-7b81f22c2e97" d="m56.21167,147.005l18.37968,18.37935,36.75937-36.7587,36.75936,36.7587,18.37968-18.37935-36.75936-36.7587,36.75937-36.7587-18.37969-18.37935-36.75936,36.7587-36.75937-36.7587-18.37968,18.37935,36.75937,36.7587-36.75937,36.7587Z"/>
+    </g>
+    <g class="uuid-4e4dd3aa-c9c4-4197-bddf-a5af2ce58462">
+      <g id="uuid-db1ace83-7b19-4d2f-87ce-f70eb944e401" data-name="Gruppe 8142">
+        <g id="uuid-70152751-b36d-4f96-be7c-9388445b7c49" data-name="Gruppe 8141">
+          <path id="uuid-81be8861-33d3-4112-97e6-29c115580748" data-name="Pfad 10402" class="uuid-0df7a3da-01a4-481f-8e78-692ffb4ddb83" d="m-.00034.00034L219.99948-.00037v220.00076L-.00034,219.99968V.00034Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

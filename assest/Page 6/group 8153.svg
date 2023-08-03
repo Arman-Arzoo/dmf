@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-5677a094-0355-43e3-a23f-3352c66ae26a" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="220" height="220" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 220 220">
+  <defs>
+    <style>
+      .uuid-d098b164-a4d3-4530-8ddc-1a1c2d9823c6, .uuid-17dee365-57ca-4092-abc7-afcbba5d9109 {
+        fill: none;
+      }
+
+      .uuid-d091205a-f1b6-4a8a-a46d-adcde5697b92 {
+        clip-path: url(#uuid-f29ea42a-e6fe-4cd0-80d3-4d34bc009a98);
+      }
+
+      .uuid-1c3b44b5-ce5b-4ba7-be32-923f0b85ac77 {
+        clip-path: url(#uuid-a3cf48f9-7628-4aad-869a-d4be07f99230);
+      }
+
+      .uuid-17dee365-57ca-4092-abc7-afcbba5d9109 {
+        stroke: #4e5055;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+
+      .uuid-f1ef8a8b-6105-4941-8a0e-4641ee65a4fc {
+        fill: url(#uuid-1a7d1677-8b31-418d-9487-b59691484821);
+      }
+    </style>
+    <clipPath id="uuid-a3cf48f9-7628-4aad-869a-d4be07f99230">
+      <rect class="uuid-d098b164-a4d3-4530-8ddc-1a1c2d9823c6" width="220" height="220"/>
+    </clipPath>
+    <clipPath id="uuid-f29ea42a-e6fe-4cd0-80d3-4d34bc009a98">
+      <path class="uuid-d098b164-a4d3-4530-8ddc-1a1c2d9823c6" d="m109.99951,0v8.52266c56.01793.06685,101.41168,45.46289,101.47473,101.47981h0c-.06306,56.015-45.45871,101.40764-101.47473,101.46798h0c-56.01563-.06088-101.41069-45.45336-101.47375-101.46798H0c.06957,60.72112,49.2773,109.92796,109.99951,109.99754h0c60.72259-.06903,109.93091-49.27604,110.00049-109.99754h0C219.93261,49.27926,170.72379.06958,109.99951,0Z"/>
+    </clipPath>
+    <linearGradient id="uuid-1a7d1677-8b31-418d-9487-b59691484821" data-name="Unbenannter Verlauf" x1="-1137" y1="1354.34755" x2="-1136.01369" y2="1354.34755" gradientTransform="translate(555702.32725 48699.12416) rotate(-45) scale(315.445 -315.44399)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#77a133"/>
+      <stop offset=".1" stop-color="#77a133"/>
+      <stop offset=".2" stop-color="#7ba736"/>
+      <stop offset=".3" stop-color="#84b33b"/>
+      <stop offset=".4" stop-color="#8cbf40"/>
+      <stop offset=".5" stop-color="#95cb45"/>
+      <stop offset=".6" stop-color="#95cb45"/>
+      <stop offset=".7" stop-color="#95cb45"/>
+      <stop offset=".8" stop-color="#95cb45"/>
+      <stop offset=".9" stop-color="#95cb45"/>
+      <stop offset="1" stop-color="#95cb45"/>
+    </linearGradient>
+  </defs>
+  <g id="uuid-20d8ddc9-f102-4bff-bb2e-9e10bb17ff38" data-name="Gruppe 8153">
+    <g class="uuid-1c3b44b5-ce5b-4ba7-be32-923f0b85ac77">
+      <g id="uuid-e952fa45-3e5e-457e-bc97-4b47ec598eb6" data-name="Gruppe 8150">
+        <g id="uuid-f33fe71b-829c-4038-95d4-a91f953c2bcd" data-name="Gruppe 8149">
+          <path id="uuid-d689cf25-ff82-4d10-a05b-ee3b26edfe99" data-name="Pfad 10408" class="uuid-17dee365-57ca-4092-abc7-afcbba5d9109" d="m159.03153,137.43355h-25.17783c-2.51808,10.43115-9.17279,18.16377-21.76121,18.16377-6.83422,0-12.23039-2.51804-15.82651-6.6536-3.23711-3.41656-4.49565-7.19311-5.39518-14.74721h26.79638v-14.92278h-27.87542v-13.49165h27.87542v-14.92672h-26.61589c.71903-7.19312,2.15807-10.79016,5.21567-14.20278,3.59711-4.13656,8.99229-6.6536,15.82651-6.6536,12.58941,0,19.06362,7.73361,21.58071,18.16377h25.35832c-4.49664-26.80084-23.02074-40.46904-46.94003-40.46904-14.38747,0-25.53784,4.85557-34.34963,13.6682-8.09277,8.09262-11.14543,17.08476-12.23038,29.49049h-13.12794v14.92968h12.40891v13.49165h-12.40891v14.92278h13.12893c1.07904,12.76869,3.95614,21.76082,12.23038,30.03295,8.81278,8.81262,19.96216,13.6682,34.34963,13.6682,23.73879,0,42.44241-13.66721,46.93806-40.4641Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-d091205a-f1b6-4a8a-a46d-adcde5697b92">
+      <g id="uuid-ad7a925e-9ce0-4ad2-9d76-0e0fef956559" data-name="Gruppe 8152">
+        <g id="uuid-7d3941fe-dcf0-4d5f-8344-984211df3260" data-name="Gruppe 8151">
+          <path id="uuid-9b35f802-3983-4137-9ae2-a5de18cd0081" data-name="Pfad 10410" class="uuid-f1ef8a8b-6105-4941-8a0e-4641ee65a4fc" d="m-.00029.00029h220.00018s-.0007,219.99972-.0007,219.99972L-.00029,220.0007V.00029Z"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

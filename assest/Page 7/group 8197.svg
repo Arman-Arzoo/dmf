@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="123" height="123" viewBox="0 0 123 123">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.497" y1="0.43" x2="0.771" y2="0.349" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#84a214"/>
+      <stop offset="1" stop-color="#a2c617"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Pfad_10417" data-name="Pfad 10417" d="M0,36.031H106.9v-106.9H0Z" transform="translate(0 70.867)" fill="#fff"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Pfad_7878" data-name="Pfad 7878" d="M120.106-156.523v4.764A56.8,56.8,0,0,1,176.84-95.021h0a56.794,56.794,0,0,1-56.734,56.731h0A56.8,56.8,0,0,1,63.372-95.021H58.606a61.57,61.57,0,0,0,61.5,61.5h0a61.569,61.569,0,0,0,61.5-61.5h0A61.57,61.57,0,0,0,120.106-156.523Z" transform="translate(-58.606 156.523)" fill="url(#linear-gradient)"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_8197" data-name="Gruppe 8197" transform="translate(-133.273 -657.516)">
+    <g id="Gruppe_8171" data-name="Gruppe 8171" transform="translate(138.187 661.62)" clip-path="url(#clip-path)">
+      <g id="Gruppe_8168" data-name="Gruppe 8168" transform="translate(35.077 25.532)">
+        <path id="Pfad_10414" data-name="Pfad 10414" d="M19.9,2.831,11.748-5.32a.864.864,0,0,0-.6-.249.862.862,0,0,0-.6.249L-30.345,35.566s0,0,0,0,0,0,0,0l-1.409,1.409a.847.847,0,0,0-.208.345L-35.7,49.07l-3.19,3.217a.853.853,0,0,0,.006,1.205.845.845,0,0,0,.6.247.848.848,0,0,0,.6-.252l3.187-3.216,11.741-3.726a.841.841,0,0,0,.345-.21l1.41-1.409s0,0,0,0a0,0,0,0,1,0,0L13,10.938a.829.829,0,0,0,.48-.48L19.9,4.037a.851.851,0,0,0,0-1.205M-21.593,43.117l-2.871-2.869L8.607,7.275,11.428,10.1Zm-4.074-4.076-2.872-2.871L4.482,3.15,7.4,6.07Zm-7.969,9.173,3.228-10.176.662-.662,3.457,3.456.017.017.017.018,3.457,3.456-.662.662ZM12.633,8.889,5.688,1.945l5.456-5.456L18.09,3.435Z" transform="translate(39.132 5.569)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_8169" data-name="Gruppe 8169" transform="translate(39.009 85.03)">
+        <path id="Pfad_10415" data-name="Pfad 10415" d="M10.662,0H-20.117a.853.853,0,0,0-.852.852.853.853,0,0,0,.852.852H10.662a.852.852,0,1,0,0-1.7" transform="translate(20.969)" fill="#fff"/>
+      </g>
+      <g id="Gruppe_8170" data-name="Gruppe 8170" transform="translate(21.964 85.03)">
+        <path id="Pfad_10416" data-name="Pfad 10416" d="M3.64,0H-6.306a.853.853,0,0,0-.852.852.853.853,0,0,0,.852.852H3.64a.852.852,0,1,0,0-1.7" transform="translate(7.158)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Gruppe_5660" data-name="Gruppe 5660" transform="translate(133.273 657.516)" clip-path="url(#clip-path-2)">
+      <g id="Gruppe_5659" data-name="Gruppe 5659" transform="translate(-237.376 135.833) rotate(-45)">
+        <path id="Pfad_7877" data-name="Pfad 7877" d="M191.97-.125l226.2,226.2L226.078,418.173-.125,191.97Z" transform="translate(0 0)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+  </g>
+</svg>

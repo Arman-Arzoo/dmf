@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="uuid-b5781507-30e5-47f4-a93d-fc7e9891cb20" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" width="1125.53003" height="814.177" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1125.53003 814.177">
+  <defs>
+    <style>
+      .uuid-e576bb7c-9c7c-41ba-929f-cd63a928a696 {
+        clip-path: url(#uuid-e3038638-af3f-41d7-b706-1d6229b59683);
+      }
+
+      .uuid-65e33a50-039d-49ae-9e50-521e58335110, .uuid-69955f55-8b7f-466c-a9b7-2ed4ef832806, .uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6, .uuid-afcba09b-b8db-4d5e-bea9-24e89ae75970, .uuid-3ce65e94-ab5b-4680-b4ec-5495eec90615 {
+        fill: none;
+      }
+
+      .uuid-84552ee3-6388-4c09-8812-76cef1ed7938 {
+        clip-path: url(#uuid-e0c65677-d397-4589-83f9-ae68f7ca27fd);
+      }
+
+      .uuid-69955f55-8b7f-466c-a9b7-2ed4ef832806 {
+        stroke: #fccc02;
+        stroke-width: 16px;
+      }
+
+      .uuid-aeccbbef-6ef7-49ca-9155-764a736c17bf {
+        fill: url(#uuid-cf21cffa-e4af-4223-8d16-c4de09277448);
+      }
+
+      .uuid-fd9449d7-ca89-4f89-b400-ab9dfe041574 {
+        font-size: 53px;
+      }
+
+      .uuid-fd9449d7-ca89-4f89-b400-ab9dfe041574, .uuid-8f59de83-e410-402f-8f2c-d3a8cef7befa, .uuid-d3810b3e-6dd5-46d4-a295-f0503d5d5c84, .uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1, .uuid-2f778ff9-5a7e-4d3f-8e27-90e7bbe83c08, .uuid-a60bf2c7-96d0-4c46-ab90-a7500c15f029 {
+        font-family: Barlow-Bold, Barlow;
+        font-weight: 700;
+      }
+
+      .uuid-fd9449d7-ca89-4f89-b400-ab9dfe041574, .uuid-8f59de83-e410-402f-8f2c-d3a8cef7befa, .uuid-d3810b3e-6dd5-46d4-a295-f0503d5d5c84, .uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1, .uuid-2f778ff9-5a7e-4d3f-8e27-90e7bbe83c08, .uuid-a60bf2c7-96d0-4c46-ab90-a7500c15f029, .uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711 {
+        isolation: isolate;
+      }
+
+      .uuid-fd9449d7-ca89-4f89-b400-ab9dfe041574, .uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1 {
+        fill: #fff;
+      }
+
+      .uuid-5ab8b5b7-32f2-4636-a2ca-37491ad39957 {
+        fill: url(#uuid-5d5ee793-352a-47d7-bc8c-be14f5ebf254);
+      }
+
+      .uuid-bea17e10-420c-47d4-9bfe-d37701bf4397 {
+        clip-path: url(#uuid-4fefa7f6-4199-4127-8e35-bb76104450c5);
+      }
+
+      .uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6 {
+        stroke: #9a9b9f;
+        stroke-width: .8px;
+      }
+
+      .uuid-8f59de83-e410-402f-8f2c-d3a8cef7befa {
+        font-size: 182px;
+      }
+
+      .uuid-8f59de83-e410-402f-8f2c-d3a8cef7befa, .uuid-2f778ff9-5a7e-4d3f-8e27-90e7bbe83c08, .uuid-a60bf2c7-96d0-4c46-ab90-a7500c15f029 {
+        fill: #4e5055;
+      }
+
+      .uuid-d3810b3e-6dd5-46d4-a295-f0503d5d5c84 {
+        fill: #fccb00;
+      }
+
+      .uuid-d3810b3e-6dd5-46d4-a295-f0503d5d5c84, .uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1 {
+        font-size: 50px;
+      }
+
+      .uuid-375ce2e4-067d-4eeb-a8f0-a46f30030a3f {
+        fill: url(#uuid-a21daed0-404a-43fd-a933-fd94ce7411f5);
+      }
+
+      .uuid-ad03d59e-200e-4d02-8bc1-520561e9db5c {
+        fill: url(#uuid-cff2a0d3-dc7d-43f0-b964-277dc9479ff1);
+      }
+
+      .uuid-b74483c2-8e41-41eb-a9ad-d8f07f50d6b8 {
+        clip-path: url(#uuid-7ce260e3-94b0-401c-a254-70569344d920);
+      }
+
+      .uuid-534687af-4ca5-4ca7-ac2f-83014c175c65 {
+        clip-path: url(#uuid-8d6189bb-ea4b-415a-9bc1-6445d748e823);
+      }
+
+      .uuid-2f778ff9-5a7e-4d3f-8e27-90e7bbe83c08 {
+        font-size: 112px;
+      }
+
+      .uuid-09b0b750-f56f-4d7e-babe-f4f526d1d717 {
+        fill: url(#uuid-d7f14fdc-6bbb-4b98-bebf-b367eb9935e2);
+      }
+
+      .uuid-dee29896-5249-4519-b66a-97b4dc37e00c {
+        fill: url(#uuid-c6d0f2a3-9f25-4fe8-b150-665cc8a3105b);
+      }
+
+      .uuid-a60bf2c7-96d0-4c46-ab90-a7500c15f029 {
+        font-size: 119px;
+      }
+
+      .uuid-45bdcd2e-beb6-428b-aa7d-e343d1e4ca29 {
+        clip-path: url(#uuid-e6ec0fd3-10ff-40e9-940a-c3651c0420dd);
+      }
+
+      .uuid-53b03253-12ed-4734-8c70-daca07506530 {
+        clip-path: url(#uuid-334e8486-79e7-43b6-9b5a-54029b171bf9);
+      }
+
+      .uuid-afcba09b-b8db-4d5e-bea9-24e89ae75970 {
+        stroke: #2b2e34;
+      }
+
+      .uuid-3ce65e94-ab5b-4680-b4ec-5495eec90615 {
+        stroke: #faca00;
+        stroke-width: 14px;
+      }
+
+      .uuid-cd03709c-9b11-49f4-b8fe-edb6d1482ba4 {
+        fill: url(#uuid-51eb1c97-4fd9-41b4-b8d8-9fcd24d6d4b0);
+      }
+
+      .uuid-a660bf28-2ec1-4c5c-aa30-a3133a550671 {
+        clip-path: url(#uuid-33db780d-afed-46c4-8a77-af5917b84886);
+      }
+    </style>
+    <clipPath id="uuid-7ce260e3-94b0-401c-a254-70569344d920">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m774.44801,276.73302c-68.95869.00055-124.86124,55.90131-124.864,124.86h0c.00055,68.96041,55.90358,124.8639,124.864,124.865h0c68.96103,0,124.86501-55.90396,124.86501-124.86499h0c-.00221-68.95931-55.9057-124.86056-124.86501-124.86001Z"/>
+    </clipPath>
+    <linearGradient id="uuid-cff2a0d3-dc7d-43f0-b964-277dc9479ff1" data-name="Unbenannter Verlauf" x1="-686.04468" y1="1654.41336" x2="-685.04468" y2="1654.41336" gradientTransform="translate(559681.58136 291255.52327) rotate(-40) scale(351.823 -351.82599)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8baf00"/>
+      <stop offset=".1" stop-color="#8baf00"/>
+      <stop offset=".2" stop-color="#90b400"/>
+      <stop offset=".3" stop-color="#9abf00"/>
+      <stop offset=".4" stop-color="#a5c900"/>
+      <stop offset=".5" stop-color="#afd400"/>
+      <stop offset=".6" stop-color="#afd400"/>
+      <stop offset=".7" stop-color="#afd400"/>
+      <stop offset=".8" stop-color="#afd400"/>
+      <stop offset=".9" stop-color="#afd400"/>
+      <stop offset="1" stop-color="#afd400"/>
+    </linearGradient>
+    <clipPath id="uuid-4fefa7f6-4199-4127-8e35-bb76104450c5">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m443.58199,453.80498c-98.97923.00055-179.21823,80.23777-179.22099,179.217h0c.00111,98.98056,80.24043,179.21989,179.22099,179.221h0c98.98079-.00055,179.22044-80.24021,179.22099-179.221h0c-.0022-98.97947-80.24152-179.217-179.22099-179.217Z"/>
+    </clipPath>
+    <linearGradient id="uuid-51eb1c97-4fd9-41b4-b8d8-9fcd24d6d4b0" data-name="Unbenannter Verlauf 2" x1="-686.03113" y1="1655.34951" x2="-685.03113" y2="1655.34951" gradientTransform="translate(802956.2907 418465.35906) rotate(-40) scale(504.98499 -504.98301)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8baf00"/>
+      <stop offset=".1" stop-color="#8baf00"/>
+      <stop offset=".2" stop-color="#90b400"/>
+      <stop offset=".3" stop-color="#9abf00"/>
+      <stop offset=".4" stop-color="#a5c900"/>
+      <stop offset=".5" stop-color="#afd400"/>
+      <stop offset=".6" stop-color="#afd400"/>
+      <stop offset=".7" stop-color="#afd400"/>
+      <stop offset=".8" stop-color="#afd400"/>
+      <stop offset=".9" stop-color="#afd400"/>
+      <stop offset="1" stop-color="#afd400"/>
+    </linearGradient>
+    <clipPath id="uuid-e6ec0fd3-10ff-40e9-940a-c3651c0420dd">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m774.03903,524.79599c67.99615-.96008,122.61609-56.35107,122.62299-124.354h0c0-2.444-.091-4.86501-.22998-7.27499h0c-66.57376,9.82843-117.42523,64.51726-122.39301,131.629"/>
+    </clipPath>
+    <clipPath id="uuid-8d6189bb-ea4b-415a-9bc1-6445d748e823">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m168.172,201.198c.00111,70.80693,57.40207,128.20655,128.209,128.20599h0c70.80621.00056,128.20645-57.39877,128.207-128.20499v-.00101h0c0-70.80695-57.40005-128.20746-128.207-128.20801h0c-70.8075,0-128.20846,57.40051-128.209,128.20801"/>
+    </clipPath>
+    <linearGradient id="uuid-c6d0f2a3-9f25-4fe8-b150-665cc8a3105b" data-name="Unbenannter Verlauf 3" x1="-685.75571" y1="1656.69969" x2="-685.48671" y2="1656.69969" gradientTransform="translate(2236581.98109 927453.26843) rotate(-45) scale(1350.05491 -1350.05503)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#007ac4"/>
+      <stop offset=".1" stop-color="#007ac4"/>
+      <stop offset=".2" stop-color="#007ac4"/>
+      <stop offset=".3" stop-color="#007ac4"/>
+      <stop offset=".4" stop-color="#007ac4"/>
+      <stop offset=".5" stop-color="#0886cb"/>
+      <stop offset=".6" stop-color="#2295d3"/>
+      <stop offset=".7" stop-color="#3ca4db"/>
+      <stop offset=".8" stop-color="#3da5db"/>
+      <stop offset=".9" stop-color="#3da5db"/>
+      <stop offset="1" stop-color="#3da5db"/>
+    </linearGradient>
+    <clipPath id="uuid-e0c65677-d397-4589-83f9-ae68f7ca27fd">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m879.327,147.707c-.00055,53.58101,43.435,97.01746,97.01599,97.01801h.00201c53.5802-.00166,97.01453-43.43777,97.01398-97.01801h0c-.00055-53.5791-43.43488-97.01343-97.01398-97.01401h0c-53.58044-.0011-97.01691,43.43353-97.01801,97.01401h0"/>
+    </clipPath>
+    <linearGradient id="uuid-a21daed0-404a-43fd-a933-fd94ce7411f5" data-name="Unbenannter Verlauf 4" x1="-685.33871" y1="1656.69969" x2="-685.13571" y2="1656.69969" gradientTransform="translate(2236581.98216 927453.26843) rotate(-45) scale(1350.05491 -1350.05503)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#007ac4"/>
+      <stop offset=".1" stop-color="#007ac4"/>
+      <stop offset=".2" stop-color="#007ac4"/>
+      <stop offset=".3" stop-color="#007ac4"/>
+      <stop offset=".4" stop-color="#007ac4"/>
+      <stop offset=".5" stop-color="#0886cb"/>
+      <stop offset=".6" stop-color="#2295d3"/>
+      <stop offset=".7" stop-color="#3ca4db"/>
+      <stop offset=".8" stop-color="#3da5db"/>
+      <stop offset=".9" stop-color="#3da5db"/>
+      <stop offset="1" stop-color="#3da5db"/>
+    </linearGradient>
+    <clipPath id="uuid-33db780d-afed-46c4-8a77-af5917b84886">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m897.97803,393.16698c-67.41503,9.95219-118.90909,65.33222-123.939,133.292h0c68.85393-.97157,124.16319-57.06122,124.17-125.922h0c0-2.474-.089-4.93-.231-7.37Z"/>
+    </clipPath>
+    <linearGradient id="uuid-cf21cffa-e4af-4223-8d16-c4de09277448" data-name="Unbenannter Verlauf 5" x1="-689.31858" y1="1651.75273" x2="-688.31858" y2="1651.75273" gradientTransform="translate(292215.22755 -16430.62506) rotate(-70) scale(167.72101 -162.27)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#da2817"/>
+      <stop offset=".1" stop-color="#da2817"/>
+      <stop offset=".2" stop-color="#db2817"/>
+      <stop offset=".3" stop-color="#e62917"/>
+      <stop offset=".4" stop-color="#f02b17"/>
+      <stop offset=".5" stop-color="#fb2c16"/>
+      <stop offset=".6" stop-color="#ff2d16"/>
+      <stop offset=".7" stop-color="#ff2d16"/>
+      <stop offset=".8" stop-color="#ff2d16"/>
+      <stop offset=".9" stop-color="#ff2d16"/>
+      <stop offset="1" stop-color="#ff2d16"/>
+    </linearGradient>
+    <clipPath id="uuid-e3038638-af3f-41d7-b706-1d6229b59683">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m304.34299,745.37299c33.85487,42.29249,85.11217,66.88522,139.286,66.828h0c54.17383.05722,105.43112-24.53551,139.286-66.828h-278.57199Z"/>
+    </clipPath>
+    <linearGradient id="uuid-5d5ee793-352a-47d7-bc8c-be14f5ebf254" data-name="Unbenannter Verlauf 6" x1="-685.75383" y1="1655.82877" x2="-685.36383" y2="1655.82877" gradientTransform="translate(949025.73142 679683.93078) rotate(-30) scale(703.14001 -641.55999)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#da2817"/>
+      <stop offset=".1" stop-color="#da2817"/>
+      <stop offset=".2" stop-color="#da2817"/>
+      <stop offset=".3" stop-color="#e02917"/>
+      <stop offset=".4" stop-color="#ed2a17"/>
+      <stop offset=".5" stop-color="#fa2c16"/>
+      <stop offset=".6" stop-color="#ff2d16"/>
+      <stop offset=".7" stop-color="#ff2d16"/>
+      <stop offset=".8" stop-color="#ff2d16"/>
+      <stop offset=".9" stop-color="#ff2d16"/>
+      <stop offset="1" stop-color="#ff2d16"/>
+    </linearGradient>
+    <clipPath id="uuid-334e8486-79e7-43b6-9b5a-54029b171bf9">
+      <path class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m899.08499,393.16701c-65.69,9.765-116.845,64.98201-121.746,133.291h0c67.522-.964,121.97299-56.95399,121.97299-125.923h0c0-2.476-.09-4.92799-.22699-7.368Z"/>
+    </clipPath>
+    <linearGradient id="uuid-d7f14fdc-6bbb-4b98-bebf-b367eb9935e2" data-name="Unbenannter Verlauf 7" x1="-686.19385" y1="1656.17542" x2="-685.91885" y2="1656.17542" gradientTransform="translate(1238571.08154 8707.23866) rotate(-70) scale(605.75098 -704.08002)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#da2817"/>
+      <stop offset=".1" stop-color="#da2817"/>
+      <stop offset=".2" stop-color="#da2817"/>
+      <stop offset=".3" stop-color="#e02917"/>
+      <stop offset=".4" stop-color="#ed2a17"/>
+      <stop offset=".5" stop-color="#fa2c16"/>
+      <stop offset=".6" stop-color="#ff2d16"/>
+      <stop offset=".7" stop-color="#ff2d16"/>
+      <stop offset=".8" stop-color="#ff2d16"/>
+      <stop offset=".9" stop-color="#ff2d16"/>
+      <stop offset="1" stop-color="#ff2d16"/>
+    </linearGradient>
+  </defs>
+  <g id="uuid-67457260-cd02-435a-bf40-c8b6e2956bd7" data-name="Gruppe 9045">
+    <g id="uuid-223902ed-baa0-4f6c-bf54-01c158f9040c" data-name="Gruppe 8955">
+      <g class="uuid-b74483c2-8e41-41eb-a9ad-d8f07f50d6b8">
+        <g id="uuid-94cd09d0-6722-4c6c-9d20-e3a201aab2bc" data-name="Gruppe 8953">
+          <g id="uuid-f853077d-ca95-477c-90f5-5b9810f0b482" data-name="Gruppe 8952">
+            <path id="uuid-5d970745-f587-4666-a2c0-ff12a3e2fdbe" data-name="Pfad 11040" class="uuid-ad03d59e-200e-4d02-8bc1-520561e9db5c" d="m649.58476,276.72882l249.7265.00247-.00055,249.72879-249.72842-.00476.00247-249.7265Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="uuid-893ff1db-063b-40d7-adb9-a72d25958c19" data-name="Gruppe 8954">
+      <g class="uuid-bea17e10-420c-47d4-9bfe-d37701bf4397">
+        <g id="uuid-8cfb89ff-403a-4fbf-be18-a951968474a0" data-name="Gruppe 8953-2">
+          <g id="uuid-b3d9ddea-e01f-4732-b7b4-e5d99cfac3b1" data-name="Gruppe 8952-2">
+            <path id="uuid-292a7325-5315-49f7-8995-ae0ead241fe7" data-name="Pfad 11040-2" class="uuid-cd03709c-9b11-49f4-b8fe-edb6d1482ba4" d="m264.35963,453.80272l358.44257-.0032.00193,358.44105-358.44257.0032-.00193-358.44105Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-45bdcd2e-beb6-428b-aa7d-e343d1e4ca29">
+      <g id="uuid-2dac9d9d-0d9b-44ed-b256-a04bfcc9efe4" data-name="Gruppe 8103">
+        <g id="uuid-7571b72c-19ed-4b70-86e7-39325066d7d3" data-name="Gruppe 8083">
+          <path id="uuid-5e253800-6257-421d-8950-2fb8c620727f" data-name="Pfad 10323" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m687.87703,279.37099l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-a614295b-03d3-461e-81cc-a580cad37d70" data-name="Gruppe 8084">
+          <path id="uuid-061b7e6e-4a25-4aac-a2cb-f7da2def84b5" data-name="Pfad 10324" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m635.99904,331.24899l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-265bb24c-82eb-448f-a80f-7dcb72eacda0" data-name="Gruppe 8085">
+          <path id="uuid-c72d2d40-e838-463c-a125-536e50d768df" data-name="Pfad 10325" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m694.36203,272.88599l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-bef9913c-c5ee-4f35-be70-549dd0afcec5" data-name="Gruppe 8086">
+          <path id="uuid-1314c082-8f76-4e08-98d4-d2b4589f0c85" data-name="Pfad 10326" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m642.48404,324.76399l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-9627e8e6-0da4-472a-b9cb-e0799fe124ee" data-name="Gruppe 8087">
+          <path id="uuid-6d58c9eb-d19f-479e-abee-b0ea56874074" data-name="Pfad 10327" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m700.84703,266.40199l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-7a680deb-4c41-4f06-b7b5-c95fe67e61b9" data-name="Gruppe 8088">
+          <path id="uuid-cda58c61-d4b6-42e5-aaf4-18c5959bb751" data-name="Pfad 10328" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m648.96903,318.27999l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-08bcd399-8805-4597-a8d6-734fa8728d53" data-name="Gruppe 8089">
+          <path id="uuid-c4042aa7-568b-45b4-ae8d-6a211f96462b" data-name="Pfad 10329" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m707.33203,259.91699l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-c59ffc49-1435-48b1-b4d5-4c17b0059c30" data-name="Gruppe 8090">
+          <path id="uuid-8c7ece71-13af-4941-b575-4eebd485ee86" data-name="Pfad 10330" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m655.45403,311.79499l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-b7640bd2-39a5-4d7b-8bf8-3b1d7d7570b1" data-name="Gruppe 8091">
+          <path id="uuid-3c4ff565-a9b0-403d-8ac1-bc416fc7fd5f" data-name="Pfad 10331" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m610.06003,357.18799l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-a26b3f6b-eadf-4c41-b471-1ce44bf93544" data-name="Gruppe 8092">
+          <path id="uuid-93158192-4d6b-4971-923b-b7963d105f12" data-name="Pfad 10332" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m713.81603,253.43199l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-f5246828-e243-41a8-9e09-66691175a0eb" data-name="Gruppe 8093">
+          <path id="uuid-f0dad4d3-2a1c-48b4-a0da-d9a294bdae4a" data-name="Pfad 10333" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m661.93803,305.30999l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-409bcd91-5480-4561-af0f-b1ba8a8f47aa" data-name="Gruppe 8094">
+          <path id="uuid-efa71657-ad65-461d-ab4c-9d4802cb79a9" data-name="Pfad 10334" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m616.54503,350.70299l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-7d7e3dfe-e96c-4cc6-9760-67e854d6e9a1" data-name="Gruppe 8095">
+          <path id="uuid-01a74ca4-5220-4904-8caa-bccaaa96ee92" data-name="Pfad 10335" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m720.30103,246.94699l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-0994feaf-f002-4570-b56d-71ecd8e27f62" data-name="Gruppe 8096">
+          <path id="uuid-e747e2f4-1585-4cec-b209-04abe667cfd7" data-name="Pfad 10336" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m668.42303,298.82499l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-abbaaddf-9393-4c57-8c97-c481344519b6" data-name="Gruppe 8097">
+          <path id="uuid-3a1cd907-1991-4af2-afcd-ce6d041e45e0" data-name="Pfad 10337" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m623.03003,344.21899l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-5571cdbc-afce-4c68-bb2e-eaad666c602a" data-name="Gruppe 8098">
+          <path id="uuid-f95ec9a0-5b69-4608-ae59-715a7a8d90b0" data-name="Pfad 10338" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m726.78603,240.463l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-43dc25e8-a876-4d48-a392-44fa5cdbe1b0" data-name="Gruppe 8099">
+          <path id="uuid-e5f1beb3-9bad-4f63-96ef-6870e3e7cef8" data-name="Pfad 10339" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m674.90804,292.341l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-7e673516-f994-44cc-97a6-69d5584dc884" data-name="Gruppe 8100">
+          <path id="uuid-974c4a4a-a3e5-4e06-a230-23a60cb4cb04" data-name="Pfad 10340" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m629.51503,337.73399l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-9f3d117c-cef8-4812-aeca-99e073b3ec10" data-name="Gruppe 8101">
+          <path id="uuid-97b69eec-74f7-4662-8060-441470d12d57" data-name="Pfad 10341" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m733.27103,233.978l304.24701,304.24701"/>
+        </g>
+        <g id="uuid-f5a4224f-cb23-4abf-b6dd-f71813135aec" data-name="Gruppe 8102">
+          <path id="uuid-2d4709c7-b2ba-429d-b37a-00370b17958e" data-name="Pfad 10342" class="uuid-a07dead3-0ae3-4540-a709-8e5f45ba37c6" d="m681.39303,285.856l304.24701,304.24701"/>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-534687af-4ca5-4ca7-ac2f-83014c175c65">
+      <g id="uuid-d12552bd-2b98-4486-83ab-6c852095fb65" data-name="Gruppe 8105">
+        <g id="uuid-359e4139-2494-4ab4-9932-585b7f590c09" data-name="Gruppe 8104">
+          <path id="uuid-ee7e8a87-424d-4fd9-84a2-9d5d0d4c106e" data-name="Pfad 10344" class="uuid-dee29896-5249-4519-b66a-97b4dc37e00c" d="m-.00106.00002l1125.53008.00004.00009,783.73593-1125.53016-.00004V.00002Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-84552ee3-6388-4c09-8812-76cef1ed7938">
+      <g id="uuid-ac81d58b-4b98-41ce-a209-3f3ec8f4f2e5" data-name="Gruppe 8107">
+        <g id="uuid-64c597e0-1b58-429c-b5b6-d10b5fc8dd92" data-name="Gruppe 8106">
+          <path id="uuid-5083c88d-c719-4469-8dfa-d247f2ce5f93" data-name="Pfad 10346" class="uuid-375ce2e4-067d-4eeb-a8f0-a46f30030a3f" d="m.00001.00002l1125.53008.00004.00009,783.73593L.00001,783.73594V.00002Z"/>
+        </g>
+      </g>
+    </g>
+    <g id="uuid-0beeadac-b8c6-4999-8915-9850edc9e036" data-name="Gruppe 8110">
+      <path id="uuid-639a6a0d-6513-403e-905f-0996e6a79f44" data-name="Pfad 10350" class="uuid-3ce65e94-ab5b-4680-b4ec-5495eec90615" d="m189.72401,539.06898c48.02593-.05511,86.9449-38.97407,87-87,.0013-22.82584-8.98357-44.7346-25.011-60.987-16.3174-16.66487-38.66574-26.04527-61.989-26.019-48.02593.05511-86.94489,38.97407-87,87,.0518,48.02827,38.97173,86.95088,87,87.006Z"/>
+    </g>
+    <path id="uuid-085033a9-9944-400b-9f6d-cc52697b0124" data-name="Pfad 10352" class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m0,783.73599h1125.53003V-.00003H0v783.73602Z"/>
+    <g id="uuid-ef245a03-0599-4707-8fd2-e730648d4a47" data-name="A" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1" transform="translate(276.87 216.79004)"><tspan x="0" y="0">A</tspan></text>
+    </g>
+    <g id="uuid-cd6433a4-8942-412b-8523-287b97b2cd94" data-name=" " class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-2f778ff9-5a7e-4d3f-8e27-90e7bbe83c08" transform="translate(53.99597 145.177)"><tspan x="0" y="0">?</tspan></text>
+    </g>
+    <g id="uuid-c4f1efac-a566-47be-8371-ae306b4e14e0" data-name=" 2" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-8f59de83-e410-402f-8f2c-d3a8cef7befa" transform="translate(527.99597 263.177)"><tspan x="0" y="0">?</tspan></text>
+    </g>
+    <g id="uuid-4115037a-2564-408d-84fd-b2071ac2f934" data-name=" 3" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-a60bf2c7-96d0-4c46-ab90-a7500c15f029" transform="translate(665.99597 652.177)"><tspan x="0" y="0">?</tspan></text>
+    </g>
+    <path id="uuid-154d701c-e376-4cae-ad81-16a673896aee" data-name="Pfad 10354" class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m0,783.73599h1125.53003V-.00003H0v783.73602Z"/>
+    <g id="uuid-d1b7c45d-f4d8-40ad-9745-73dbe10f39c7" data-name="B" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-fd9449d7-ca89-4f89-b400-ab9dfe041574" transform="translate(756.302 413.34692)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+    <g id="uuid-04866141-fae6-4d00-a209-0825353d0377" data-name="B-2" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-fd9449d7-ca89-4f89-b400-ab9dfe041574" transform="translate(427.08203 648.40796)"><tspan x="0" y="0">B</tspan></text>
+    </g>
+    <g id="uuid-b3e08265-9c7c-4334-a135-87174f408ec9" data-name="Gruppe 8933">
+      <g class="uuid-a660bf28-2ec1-4c5c-aa30-a3133a550671">
+        <g id="uuid-fcbf9c26-bb21-490f-a7f1-ed9a7d304c41" data-name="Gruppe 8932">
+          <g id="uuid-6afb6949-1bc2-4acb-a382-c34a2853c414" data-name="Gruppe 8931">
+            <path id="uuid-fff90861-06dc-41a0-8692-d2d0343db188" data-name="Pfad 11018" class="uuid-aeccbbef-6ef7-49ca-9155-764a736c17bf" d="m774.03874,393.1686l124.17047-.00022v133.2904s-124.17047.00021-124.17047.00021v-133.29039Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-e576bb7c-9c7c-41ba-929f-cd63a928a696">
+      <g id="uuid-7ef75206-b7fa-4cb3-bbdf-eb12e9985d9e" data-name="Gruppe 8949">
+        <g id="uuid-52e70dfb-4bd9-42ca-835f-48bba97d832f" data-name="Gruppe 8948">
+          <path id="uuid-8bb4ce37-ad2b-46ab-8ae4-2679a6f6e5c1" data-name="Pfad 11032" class="uuid-5ab8b5b7-32f2-4636-a2ca-37491ad39957" d="m304.3438,404.122l576.31029-.00134-.00082,408.07858-576.30977.0022.00031-408.07944Z"/>
+        </g>
+      </g>
+    </g>
+    <g class="uuid-53b03253-12ed-4734-8c70-daca07506530">
+      <g id="uuid-b8838d25-5463-43f8-aba8-c5cbe4f2ca5e" data-name="Gruppe 8951">
+        <g id="uuid-7da0abe0-62a1-4176-8d7a-a0f8d237ed38" data-name="Gruppe 8950">
+          <path id="uuid-b9070479-889c-4ba7-a9d1-87c71c2abf98" data-name="Pfad 11034" class="uuid-09b0b750-f56f-4d7e-babe-f4f526d1d717" d="m306.08215,393.16688l593.23127-.0031.00025,428.70515-593.2313.00312-.00021-428.70517Z"/>
+        </g>
+      </g>
+    </g>
+    <path id="uuid-dd674e4a-f8f3-4b54-8a2f-00a2fbf8a614" data-name="Pfad 10353" class="uuid-afcba09b-b8db-4d5e-bea9-24e89ae75970" d="m.936,745.37299h1123.65698V1.31699H.936v744.056Z"/>
+    <g id="uuid-71ab2201-d208-422d-bc78-e4219370cc48" data-name="Gruppe 8109">
+      <path id="uuid-d8407752-497d-4b0a-a179-a1962f71faa7" data-name="Pfad 10349" class="uuid-69955f55-8b7f-466c-a9b7-2ed4ef832806" d="m924.96204,693.11502c84.94099,0,154.045-69.1,154.045-154.045s-69.10699-154.049-154.045-154.049-154.048,69.108-154.048,154.049,69.104,154.04499,154.048,154.04499Z"/>
+    </g>
+    <g id="uuid-1307c000-4fef-4abc-b628-7057a18718c7" data-name="A-2" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1" transform="translate(276.87 216.79004)"><tspan x="0" y="0">A</tspan></text>
+    </g>
+    <g id="uuid-7dbe7ddd-8b02-4cdb-a47a-fae92159f03c" data-name="A-3" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-09f39dc7-ed8c-41eb-bc86-a5769fa7e3b1" transform="translate(959.34302 163.79004)"><tspan x="0" y="0">A</tspan></text>
+    </g>
+    <g id="uuid-a0a520ab-1a11-425e-a73d-12d664dbe15c" data-name="C" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-d3810b3e-6dd5-46d4-a295-f0503d5d5c84" transform="translate(174.86304 468.18701)"><tspan x="0" y="0">C</tspan></text>
+    </g>
+    <g id="uuid-2a1d0f5d-6170-48b4-b086-0510d2f31a8a" data-name="C-2" class="uuid-ab76cec9-63f1-4e15-8bf8-ad05e07b3711">
+      <text class="uuid-d3810b3e-6dd5-46d4-a295-f0503d5d5c84" transform="translate(911.00793 553.22803)"><tspan x="0" y="0">C</tspan></text>
+    </g>
+    <path id="uuid-b232bd92-c4b3-473d-bcf0-500d324ab26f" data-name="Pfad 11039" class="uuid-65e33a50-039d-49ae-9e50-521e58335110" d="m82.996,425.33502h529.43701v-170.07899H82.996v170.07899Z"/>
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+/* Custom styles for the header */
+.header {
+    background-color: #4A4A4A;
+    padding: 10px;
+    height: 185px;
+    display: flex;
+    align-items: center;
+
+    
+}
+
+.logo img {
+    max-height: 50px;
+}
+
+/* general */
+
+ /* Position the left quarter */
+ .left-quarter {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Position the right quarter */
+.right-quarter {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 25%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+/* Style the navigation buttons */
+
+
+/* homepage  */
+.homePage{
+    background-image: url(assest/PageOneHomepage/Image-page\ 1_Desktop.jpg);
+    height: calc(100vh - 186px);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+
+/* page_2 */
+
+.page_2{
+    padding: 2rem;
+   
+}
+
+.heading_two{
+    font-size: 20px;
+    font-weight: bold;
+        
+}
+
+/* media screen */
+/* Mobile devices (portrait and landscape) */
+@media only screen and (max-width: 767px) {
+    /* Your mobile styles here */
+    .logo {
+        text-align: center;
+    }
+    .title, .logo {
+        display: block;
+    }
+    .mobile_center{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .mobile_center p{
+        text-align: center;
+    }
+  }
+  
+  /* Tablets and larger mobile devices (landscape) */
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Your tablet styles here */
+  }
+  
+  /* Desktop devices and larger (laptops, desktops, and larger screens) */
+  @media only screen and (min-width: 1024px) {
+    /* Your desktop styles here */
+  }
+  

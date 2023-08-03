@@ -13,10 +13,7 @@
     max-height: 50px;
 }
 
-.title {
-    /* font-size: 24px;
-    font-weight: bold; */
-}
+
 
 @media (max-width: 576px) {
     /* Mobile styles - stack title and logo on top of each other */
@@ -27,11 +24,18 @@
     .title, .logo {
         display: block;
     }
-
-    .title {
-        /* margin-bottom: 10px; */
-       
+    .mobile_center{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
+    .mobile_center p{
+        text-align: center;
+    }
+
+   
+
 }
 
 /* page_2 */

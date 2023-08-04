@@ -74,7 +74,7 @@ p {
 /* homepage  */
 .homePage {
     background-image: url(assest/PageOneHomepage/Image-page\ 1_Desktop.jpg);
-    height: calc(100vh - 186px);
+    height: calc(100vh - 160px);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

@@ -197,7 +197,7 @@ p {
     }
 }
 
-@media (max-width: 1024px) {
+@media only screen and (min-width: 1023px) and (max-width: 1025px){
     .header .title {
         margin-bottom: 19px;
         font-size: 70px;
@@ -205,7 +205,7 @@ p {
   }
 
 /* Desktop devices and larger (laptops, desktops, and larger screens) */
-@media only screen and (min-width: 1025px) {
+@media only screen and (min-width: 1026px) {
     /* Your desktop styles here */
     .header .title {
        margin-bottom: 65px;

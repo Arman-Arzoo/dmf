@@ -6,21 +6,44 @@
     display: flex;
     align-items: center;
 
-    
+
+}
+
+.header .title {
+    font-size: 77px;
+    transform: rotate(-6deg);
+    margin-bottom: 50px;
+    color: #ffffff;
+
+    overflow: hidden; /* Hide the overflowing characters during animation */
+    white-space: nowrap; /* Prevent line breaks during animation */
+    /* border-right: 2px solid #ffffff;  */
+    /* Add a blinking cursor effect */
+    animation: typing 4s steps(30, end), cursor 0.5s step-end ;
 }
 
 .logo img {
     max-height: 50px;
 }
 
-p{
+
+/* general */
+
+/* paragraph */
+p {
     font-size: 20px;
     font-weight: normal;
 }
-/* general */
 
- /* Position the left quarter */
- .left-quarter {
+/* heading */
+.heading_two {
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+/* Position the left quarter */
+.left-quarter {
     position: absolute;
     top: 0;
     left: 0;
@@ -42,64 +65,178 @@ p{
     display: flex;
     justify-content: center;
     align-items: center;
- 
+
 }
 
-/* Style the navigation buttons */
+/* pages */
 
 
 /* homepage  */
-.homePage{
+.homePage {
     background-image: url(assest/PageOneHomepage/Image-page\ 1_Desktop.jpg);
     height: calc(100vh - 186px);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    
+    position: relative;
+
 }
 
+.homePage .video_button_container {
+    position: absolute;
+    bottom: 50px;
+    left: 100px;
+}
+
+.homePage .video_button {
+    background-color: #ffffff;
+    height: 118px;
+    width: 264px;
+
+
+
+}
+
+.homePage .video_button h3 {
+    color: #A2C617;
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 4.5rem;
+    padding-top: 0.6rem;
+
+}
+
+.homePage .play {
+    width: 100px;
+    height: 100px;
+    background: #E73E20;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: 8px;
+    left: -40px;
+    z-index: 1;
+
+}
+
+.homePage .play:hover {
+    width: 114.74px;
+    height: 114.74px;
+    background: #00443C;
+    top: 2px;
+    left: -55px;
+    cursor: pointer;
+}
 
 /* page_2 */
-
-.page_2{
+.page_2 {
     padding: 2rem;
-   
+
 }
 
-.heading_two{
-    font-size: 20px;
-    font-weight: bold;
-        
-}
 
 /* media screen */
 /* Mobile devices (portrait and landscape) */
 @media only screen and (max-width: 767px) {
+
     /* Your mobile styles here */
     .logo {
         text-align: center;
     }
-    .title, .logo {
+
+    .title,
+    .logo {
         display: block;
     }
-    .mobile_center{
+
+    .mobile_center {
         display: flex;
         align-items: center;
         justify-content: center;
         flex-direction: column;
     }
-    .mobile_center p{
+
+    .mobile_center p {
         text-align: center;
     }
-  }
-  
-  /* Tablets and larger mobile devices (landscape) */
-  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+    .homePage .video_button_container {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .hide_item {
+        display: none !important;
+    }
+
+    .header .title {
+        font-size: 55px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+
+}
+
+/* Tablets and larger mobile devices (landscape) */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
     /* Your tablet styles here */
-  }
-  
-  /* Desktop devices and larger (laptops, desktops, and larger screens) */
-  @media only screen and (min-width: 1024px) {
+    .header .title {
+        font-size: 50px;
+        margin-bottom: 0px;
+        text-align: center;
+    }
+}
+
+/* Desktop devices and larger (laptops, desktops, and larger screens) */
+@media only screen and (min-width: 1024px) {
     /* Your desktop styles here */
-  }
-  
+}
+
+
+/* animation  */
+
+/* effect zome out and bounce back */
+@keyframes zoomOut {
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(0.8);
+    }
+
+    100% {
+        transform: scale(1);
+    }
+}
+
+.zoom-out-bounce {
+    animation: zoomOut 6s;
+    /* Adjust animation duration to 4 seconds */
+}
+
+/* Delay the animation on the second image */
+.delayed-animation {
+    animation-delay: 2s;
+}
+
+/* effect writing */
+@keyframes typing {
+    from {
+        width: 0;
+    }
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes cursor {
+    from, to {
+        border-color: transparent;
+    }
+    50% {
+        border-color: #ffffff;
+    }
+}

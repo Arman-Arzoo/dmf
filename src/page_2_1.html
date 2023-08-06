@@ -111,6 +111,29 @@
         <a href="page_2_2.html" class="nav-button">
             <div class="right-quarter"></div>
         </a>
+        <div class="expand_button" onclick="showNavigationBar()">
+            <img src="../assest/navigation/expand.svg" alt="play">
+        </div>
+
+        <!-- Navigation bar at the bottom -->
+        <div class="navigation_bar" id="navigation-bar">
+            <div class="nav-button" onclick="goBack()">
+                <img src="../assest/navigation/prevIcon.svg " alt="play">
+            </div>
+            <div class="nav-button" onclick="startVideo()">
+                <img src="../assest/navigation/playIcon.svg" alt="play">
+            </div>
+            <div class="dos-button" onclick="openDOS()">
+                <img src="../assest/navigation/circleIcon.svg" alt="play">
+            </div>
+            <div class="play-button" onclick="goForward()">
+                <img src="../assest/navigation/nextIcon.svg" alt="play">
+            </div>
+
+            <div class="close-button" onclick="hideNavigationBar()">
+                <img src="../assest/navigation/crossIcon.svg" alt="play">
+            </div>
+        </div>
         </main>
     </div>
     <!-- Bootstrap JavaScript Bundle with Popper.js -->

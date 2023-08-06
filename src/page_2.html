@@ -23,9 +23,9 @@
                     <!-- Desktop image -->
                     <!-- <img src="../assest/Wir sind für Sie da!.svg" alt="title" height="120px"
                         class="img-fluid d-none d-md-block zoom-out-bounce"> -->
-                        <h1 class="d-none d-md-block title">
-                            Wir sind fur sie da!
-                        </h1>
+                    <h1 class="d-none d-md-block title">
+                        Wir sind fur sie da!
+                    </h1>
                     <!-- Mobile image -->
                     <div class="d-md-none d-flex align-items-center justify-content-center ">
                         <h1 class=" title">
@@ -42,56 +42,83 @@
         </div>
 
         <main>
-        <div class="page_2">
-            <div class="row">
-                <div class="col-md-6">
-                    <div class="card border-0 pt-5">
-                        <div class="row align-items-center">
-                            <div class="col-md-2 text-center text-md-left">
-                                <img src="../assest/mapCircle.svg" alt="Image" class="img-fluid">
-                            </div>
-                            <div class="col-md-10 mobile_center">
+            <div class="page_2">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="card border-0 pt-5">
+                            <div class="row align-items-center">
+                                <div class="col-md-2 text-center text-md-left">
+                                    <img src="../assest/mapCircle.svg" alt="Image" class="img-fluid">
+                                </div>
+                                <div class="col-md-10 mobile_center">
 
-                                <h2 class="mt-3 d-flex gap-2 heading_two  text-center text-md-left">
-                                    <img src="../assest/Rectangle 1607.svg" alt="">
-                                    Bundesweit tätig
-                                </h2>
-                                <p class="mobile_center">
-                                    Die Deutsche Maklerforum AG ist ein bundesweit tätiger Versicherungsmakler mit Sitz
-                                    in
-                                    Regensburg.
-                                </p>
+                                    <h2 class="mt-3 d-flex gap-2 heading_two  text-center text-md-left">
+                                        <img src="../assest/Rectangle 1607.svg" alt="">
+                                        Bundesweit tätig
+                                    </h2>
+                                    <p class="mobile_center">
+                                        Die Deutsche Maklerforum AG ist ein bundesweit tätiger Versicherungsmakler mit
+                                        Sitz
+                                        in
+                                        Regensburg.
+                                    </p>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6">
+                    <div class="col-md-6">
 
-                    <!-- Desktop image -->
-                    <img src="../assest/DMF_Figuren_Familie-Geschaeftsfrau.svg" alt="" class="img-fluid d-none d-md-block">
-                    <!-- Mobile image -->
-                    <img src="../assest/Group 7978.svg" alt="" class="img-fluid d-md-none">
+                        <!-- Desktop image -->
+                        <img src="../assest/DMF_Figuren_Familie-Geschaeftsfrau.svg" alt=""
+                            class="img-fluid d-none d-md-block">
+                        <!-- Mobile image -->
+                        <img src="../assest/Group 7978.svg" alt="" class="img-fluid d-md-none">
+                    </div>
                 </div>
+
+                <!-- </div> -->
+                <div class="d-flex justify-content-end d-none d-sm-flex pt-5">
+                    <!-- This will be hidden on desktop (md and above) -->
+                    <img src="assest/DMF_Logo_Quadrat_RGB_300dpi.svg" alt="">
+                </div>
+
+                <!-- <a href="src/page_3.html"> -->
+                <img src="assest/pevIcon.svg" alt="">
+                <!-- </a> -->
+            </div>
+            <!-- Left Quarter for Back Navigation -->
+            <a href="../index.html" class="nav-button" onclick="goBack()">
+                <div class="left-quarter"></div>
+            </a>
+            <!-- Right Quarter for Forward Navigation -->
+            <a href="page_2_1.html" class="nav-button">
+                <div class="right-quarter"></div>
+            </a>
+
+            <!-- "Expand" button for navigation bar on the bottom -->
+            <div class="expand_button" onclick="showNavigationBar()">
+                <img src="../assest/navigation/expand.svg" alt="play">
             </div>
 
-            <!-- </div> -->
-            <div class="d-flex justify-content-end d-none d-sm-flex pt-5">
-                <!-- This will be hidden on desktop (md and above) -->
-                <img src="assest/DMF_Logo_Quadrat_RGB_300dpi.svg" alt="">
-            </div>
+            <!-- Navigation bar at the bottom -->
+            <div class="navigation_bar" id="navigation-bar">
+                <div class="nav-button" onclick="goBack()">
+                    <img src="../assest/navigation/prevIcon.svg " alt="play">
+                </div>
+                <div class="nav-button" onclick="startVideo()">
+                    <img src="../assest/navigation/playIcon.svg" alt="play">
+                </div>
+                <div class="dos-button" onclick="openDOS()">
+                    <img src="../assest/navigation/circleIcon.svg" alt="play">
+                </div>
+                <div class="play-button" onclick="goForward()">
+                    <img src="../assest/navigation/nextIcon.svg" alt="play">
+                </div>
 
-            <!-- <a href="src/page_3.html"> -->
-            <img src="assest/pevIcon.svg" alt="">
-            <!-- </a> -->
-        </div>
-        <!-- Left Quarter for Back Navigation -->
-        <a href="../index.html" class="nav-button" onclick="goBack()">
-            <div class="left-quarter"></div>
-        </a>
-        <!-- Right Quarter for Forward Navigation -->
-        <a href="page_2_1.html" class="nav-button">
-            <div class="right-quarter"></div>
-        </a>
+                <div class="close-button" onclick="hideNavigationBar()">
+                    <img src="../assest/navigation/crossIcon.svg" alt="play">
+                </div>
+            </div>
         </main>
     </div>
     <!-- Bootstrap JavaScript Bundle with Popper.js -->

@@ -22,7 +22,15 @@
     white-space: nowrap; /* Prevent line breaks during animation */
     /* border-right: 2px solid #ffffff;  */
     /* Add a blinking cursor effect */
-    animation: typing 4s steps(30, end), cursor 0.5s step-end ;
+    animation: typing 2s steps(30, end);
+}
+.header .writing::after {
+    content: ''; /* Add a pseudo-element for the typing animation */
+    display: inline-block;
+    width: 100%; /* Initially, the pseudo-element will have zero width */
+    height: 1em; /* Adjust the height as needed */
+    background-color: transparent; /* Adjust the background color as needed */
+    animation: typing 2s steps(30, end);
 }
 
 .logo img {
@@ -31,9 +39,6 @@
 
 
 /* general */
-
-
-
 
 /* paragraph */
 p {
@@ -57,13 +62,16 @@ p {
     justify-content: center;
     position: fixed;
     bottom: 3%;
-    right: 28%;
+    left: 60%;
+    transform: translateX(-50%);
+
 }
 
 .navigation_bar{
     position: fixed;
     bottom: 3%;
-    right: 32%;
+    left: 50%;
+    transform: translateX(-50%);
     height: 50px;
     padding: 0rem 1rem;
     display: flex;
@@ -298,18 +306,10 @@ p {
 /* effect writing */
 @keyframes typing {
     from {
-        width: 0;
+        width: 0%;
     }
     to {
         width: 100%;
     }
 }
 
-@keyframes cursor {
-    from, to {
-        border-color: transparent;
-    }
-    50% {
-        border-color: #ffffff;
-    }
-}
